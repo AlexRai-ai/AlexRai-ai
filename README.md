@@ -12,10 +12,9 @@
 <div align="center">
 
 ### 👨‍💻 About Me:
- 🔭 I'm currently working at **Skyaitechnologies**
- 📫 Reach me at: **nikhil@skyaitechnologies.com**
- 😄 Pronouns: **He/Him**
- ⚡ Fun fact: **I love turning coffee into code!**
+ -📫 Reach me at: **nikhil@skyaitechnologies.com**
+ -😄 Pronouns: **He/Him**
+ -⚡ Fun fact: **I love turning coffee into code!**
 
 ### 🏆 GitHub Trophies
 <p align="center">
