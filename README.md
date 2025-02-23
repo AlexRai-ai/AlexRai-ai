@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👻, I'm Nikhil</h1>
 <h3 align="center">A passionate developer from Skyaitechnologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexRai-ai&label=Profile%20views&color=0e75b6&style=flat" alt="AlexRai-ai" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlexRai-ai&label=Profile%20views&color=0e75b6&style=flat" alt="AlexRai-ai" /> </p>
 
 ### 👨‍💻 About Me:
 - 🔭 I'm currently working at **Skyaitechnologies**
