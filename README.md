@@ -29,5 +29,5 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/AlexRai-ai/AlexRai-ai/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/AlexRai-ai/.github/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
