@@ -19,19 +19,6 @@
 
 ### 💻 Tech Stack:
 <p align="center">
-  ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF5722?style=for-the-badge&logo=ai&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-  ![DevOps](https://img.shields.io/badge/DevOps-0E76A8?style=for-the-badge&logo=devops&logoColor=white) 
-  ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-  ![Celery](https://img.shields.io/badge/celery-%2338B2A0.svg?style=for-the-badge&logo=celery&logoColor=white) 
-  ![Sentry](https://img.shields.io/badge/sentry-%23C7163D.svg?style=for-the-badge&logo=sentry&logoColor=white) 
-  ![Scout](https://img.shields.io/badge/scout-%23F7B7A3.svg?style=for-the-badge&logo=scout&logoColor=white) 
-  ![BetterStack](https://img.shields.io/badge/betterstack-%23FF6F61.svg?style=for-the-badge&logo=betterstack&logoColor=white) 
-  ![Wagtail](https://img.shields.io/badge/wagtail-%233B5998.svg?style=for-the-badge&logo=wagtail&logoColor=white) 
-  ![JWT](https://img.shields.io/badge/JWT-%23F7B7A3.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
-  ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-  ![Redis](https://img.shields.io/badge/redis-%23D82C20.svg?style=for-the-badge&logo=redis&logoColor=white) 
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -47,7 +34,6 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![FastAPI](https://img.shields.io/badge/FastAPI-%23367C2B.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-  ![JWT](https://img.shields.io/badge/JWT-%23F7B7A3.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
   ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -69,7 +55,18 @@
   ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
   ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white) 
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+  ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF5722?style=for-the-badge&logo=ai&logoColor=white) 
+  ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+  ![Celery](https://img.shields.io/badge/celery-%2338B2A0.svg?style=for-the-badge&logo=celery&logoColor=white) 
+  ![Sentry](https://img.shields.io/badge/sentry-%23C7163D.svg?style=for-the-badge&logo=sentry&logoColor=white) 
+  ![Scout](https://img.shields.io/badge/scout-%23F7B7A3.svg?style=for-the-badge&logo=scout&logoColor=white) 
+  ![BetterStack](https://img.shields.io/badge/betterstack-%23FF6F61.svg?style=for-the-badge&logo=betterstack&logoColor=white) 
+  ![Wagtail](https://img.shields.io/badge/wagtail-%233B5998.svg?style=for-the-badge&logo=wagtail&logoColor=white) 
+  ![JWT](https://img.shields.io/badge/JWT-%23F7B7A3.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white) 
+  ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+  ![Redis](https://img.shields.io/badge/redis-%23D82C20.svg?style=for-the-badge&logo=redis&logoColor=white) 
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 </p>
 
 ### 📊 GitHub Stats:
