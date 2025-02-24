@@ -13,8 +13,13 @@
 </div>
 
 ### 💫 About Me
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **AI & Machine Learning Projects**
+- 🌱 I'm currently learning **Cybersecurity Audit & Blockchain Technology**
+  - 🔒 Focusing on: 
+    - Penetration Testing
+    - Security Assessment
+    - Smart Contract Development
+    - Decentralized Applications (DApps)
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **nikhil@skyaitechnologies.com**
 - 😄 Pronouns: **He/Him**
