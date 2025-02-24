@@ -56,20 +56,20 @@
 
 ### 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/YourUsername/YourRepo1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexRai-ai&repo=YourRepo1&theme=radical" />
+  <a href="https://github.com/AlexRai-ai/auth">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexRai-ai&repo=auth&theme=radical" />
   </a>
-  <a href="https://github.com/YourUsername/YourRepo2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexRai-ai&repo=YourRepo2&theme=radical" />
+  <a href="https://github.com/AlexRai-ai/auth">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexRai-ai&repo=auth&theme=radical" />
   </a>
 </p>
 
----
+
 
 <div align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/YourTwitter)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/YourInstagram)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/Pythonicalex)
   [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.gg/YourDiscord)
 </div>
